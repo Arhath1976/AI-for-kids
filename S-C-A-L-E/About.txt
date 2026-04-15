@@ -1,0 +1,5 @@
+S - Subject
+C - Context
+A - Action
+L - Lighting / Lens / Look
+E - Emotion / Energy
