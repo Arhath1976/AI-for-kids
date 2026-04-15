@@ -1,0 +1,59 @@
+{  "scene_title": "Scene 3: Kannan House – Indoor (Bedroom)",
+  "subject": {     "name": "Kannan",
+    "age": "15",
+    "ethnicity": "South Asian",
+    "description": "Teenage school boy",
+    "appearance": {
+      "clothing": "Red T-shirt, night pants",
+      "visibility": "Half-body"
+    }
+  },
+  "context": {     "location": "Indoor bedroom",
+    "setting_details": [
+      "Study table",
+      "School books visible",
+      "Mobile phone on table",
+      "Clean and organized bedroom interior",
+      "Night-time background",
+      "Bedroom door slightly visible in background",
+      "Implied presence of father outside the room"
+    ]
+  },
+  "action": {     "primary": "Kannan slowly turns his head toward the desk drawer",
+    "facial_expression": [
+      "Tired eyes",
+      "Confused look",
+      "Subtle shift toward curiosity"
+    ],
+    "body_language": "Gentle head turn, slow movement indicating hesitation and interest",
+    "audio": {       "type": "Voiceover",
+      "character": "Father",
+      "dialogue_tamil": "அதனால் தான் கண்ணா……….உனது மேசை அறையில் உனக்காக ஒரு பரிசு வைத்திருக்கிறேன்…………. பார்த்தாயா?"
+    }
+  },
+  "camera": {     "shot_type": "Medium shot",
+    "angle": "Side angle (profile)",
+    "movement": "Slow push-in (subtle zoom forward)",
+    "focus": "Kannan turning toward drawer",
+    "depth_of_field": "Shallow",
+    "subject_focus": "Sharp",
+    "background": "Softly blurred"
+  },
+  "lighting": {
+    "type": "Dim",
+    "tone": "Slight warm tint",
+    "mood": "Boring, slightly stressful but transitioning"
+  },
+  "composition": {
+    "framing": "Profile composition with Kannan on one side, drawer direction emphasized",
+    "background_elements": "Door softly visible, hinting father's presence outside"
+  },
+  "emotion": {     "primary": ["Curiosity", "Mild confusion"],
+    "energy_level": "Low but shifting toward engagement"
+  },
+  "style": {    "visual_tone": "Realistic cinematic",
+    "color_grading": "Warm, muted tones",
+    "mood_reference": "Late-night study turning into curiosity moment"
+  }
+}
+
