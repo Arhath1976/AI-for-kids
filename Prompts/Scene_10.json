@@ -1,0 +1,71 @@
+{
+  "scene_title": "Scene 10: Final Confirmation – Drawer Close-up",
+  "subject": {
+    "name": "Kannan",
+    "ethnicity": "South Asian",
+    "description": "Teenage school boy",
+    "consistency": "Maintain same appearance as previous scenes",
+    "appearance": {
+      "focus": "Right hand",
+      "visibility": "Extreme close-up (hand detail)"
+    }
+  },
+  "context": {
+    "location": "Indoor bedroom",
+    "setting_details": [
+      "Study table with drawer",
+      "Clean and organized bedroom",
+      "Night-time background"
+    ],
+    "drawer_view": {
+      "perspective": "Top view inside drawer",
+      "contents": [
+        "Social Eagle brochure paper",
+        "Text visible: AI FOR KIDS",
+        "Completely normal, no glow"
+      ]
+    },
+    "consistency": "Maintain continuity with previous drawer scenes"
+  },
+  "action": {
+    "primary": "Kannan pulls the Social Eagle brochure out of the drawer",
+    "focus_movement": "Right hand retracts smoothly holding the brochure",
+    "object_state": "Brochure remains normal with no glow or visual effects",
+    "timing": "Slow, controlled motion indicating careful observation"
+  },
+  "camera": {
+    "shot_type": "Extreme close-up",
+    "angle": "Top view (inside drawer)",
+    "focus": "Hand holding and removing brochure",
+    "framing": "Drawer interior tightly framed",
+    "depth_of_field": "Shallow",
+    "subject_focus": "Sharp",
+    "background": "Softly blurred"
+  },
+  "lighting": {
+    "primary": "Normal warm room lighting",
+    "tone": "Soft and natural",
+    "effect": "No glow, fully realistic lighting",
+    "mood": "Calm but tense"
+  },
+  "composition": {
+    "frame_style": "Tight close-up",
+    "visual_focus": "Hand movement and brochure",
+    "balance": "Dynamic motion against static drawer interior"
+  },
+  "emotion": {
+    "primary": ["Suspense"],
+    "energy_level": "Low, lingering tension",
+    "expression": "Cautious verification, subtle disbelief"
+  },
+  "style": {
+    "visual_tone": "Realistic cinematic",
+    "color_grading": "Warm natural tones",
+    "vfx": [
+      "Minimal effects",
+      "Natural realism"
+    ],
+    "mood_reference": "Final reality check, unresolved mystery"
+  }
+}
+
